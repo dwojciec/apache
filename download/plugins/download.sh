@@ -67,3 +67,6 @@ curl -O https://updates.jenkins-ci.org/download/plugins/docker-commons/latest/do
 curl -O https://updates.jenkins-ci.org/download/plugins/git-server/latest/git-server.hpi
 curl -O https://updates.jenkins-ci.org/download/plugins/icon-shim/latest/icon-shim.hpi
 curl -O https://updates.jenkins-ci.org/download/plugins/authentication-tokens/latest/authentication-tokens.hpi
+curl -O https://updates.jenkins-ci.org/download/plugins/credentials/1.23/credentials.hpi
+curl -O https://updates.jenkins-ci.org/download/plugins/analysis-core/1.71/analysis-core.hpi
+curl -O https://updates.jenkins-ci.org/download/plugins/ansicolor/0.4.1/ansicolor.hpi
