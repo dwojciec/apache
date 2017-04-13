@@ -1,72 +1,72 @@
-curl -O https://updates.jenkins-ci.org/download/plugins/blueocean-display-url/latest/blueocean-display-url.hpi
+wget https://updates.jenkins-ci.org/download/plugins/blueocean-display-url/latest/blueocean-display-url.hpi
 
-curl -O https://updates.jenkins-ci.org/download/plugins/blueocean-rest/latest/blueocean-rest.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/blueocean-rest-impl/latest/blueocean-rest-impl.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/blueocean-i18n/latest/blueocean-i18n.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/blueocean-git-pipeline/latest/blueocean-git-pipeline.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/blueocean-jwt/latest/blueocean-jwt.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/blueocean-github-pipeline/latest/blueocean-github-pipeline.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/blueocean-pipeline-editor/latest/blueocean-pipeline-editor.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/blueocean-pipeline-api-impl/latest/blueocean-pipeline-api-impl.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/blueocean-commons/latest/blueocean-commons.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/blueocean-display-url/latest/blueocean-display-url.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/blueocean-web/latest/blueocean-web.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/blueocean-autofavorite/latest/blueocean-autofavorite.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/blueocean-dashboard/latest/blueocean-dashboard.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/blueocean-config/latest/blueocean-config.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/blueocean-personalization/latest/blueocean-personalization.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/cloudbees-folder/latest/cloudbees-folder.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/credentials/latest/credentials.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/junit/latest/junit.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/blueocean/1.0.0/blueocean.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/favorite/latest/favorite.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/mailer/latest/mailer.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/workflow-job/latest/workflow-job.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/git/latest/git.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/blueocean-events/latest/blueocean-events.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/metrics/latest/metrics.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/branch-api/latest/branch-api.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/workflow-api/latest/workflow-api.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/display-url-api/latest/display-url-api.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/workflow-multibranch/latest/workflow-multibranch.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/github-branch-source/latest/github-branch-source.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/variant/latest/variant.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/workflow-cps/latest/workflow-cps.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/pubsub-light/latest/pubsub-light.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/pipeline-model-definition/latest/pipeline-model-definition.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/workflow-durable-task-step/latest/workflow-durable-task-step.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/workflow-step-api/latest/workflow-step-api.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/workflow-support/latest/workflow-support.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/pipeline-graph-analysis/latest/pipeline-graph-analysis.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/structs/latest/structs.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/pipeline-input-step/latest/pipeline-input-step.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/pipeline-stage-step/latest/pipeline-stage-step.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/matrix-project/latest/matrix-project.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/sse-gateway/latest/sse-gateway.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/jackson2-api/latest/jackson2-api.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/script-security/latest/script-security.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/workflow-scm-step/latest/workflow-scm-step.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/github/latest/github.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/git-client/latest/git-client.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/github-api/latest/github-api.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/durable-task/latest/durable-task.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/ssh-credentials/latest/ssh-credentials.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/workflow-basic-steps/latest/workflow-basic-steps.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/workflow-cps-global-lib/latest/workflow-cps-global-lib.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/credentials-binding/latest/credentials-binding.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/docker-workflow/latest/docker-workflow.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/pipeline-model-api/latest/pipeline-model-api.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/ace-editor/latest/ace-editor.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/jquery-detached/latest/jquery-detached.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/pipeline-model-declarative-agent/latest/pipeline-model-declarative-agent.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/pipeline-model-extensions/latest/pipeline-model-extensions.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/pipeline-stage-tags-metadata/latest/pipeline-stage-tags-metadata.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/plain-credentials/latest/plain-credentials.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/token-macro/latest/token-macro.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/docker-commons/latest/docker-commons.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/git-server/latest/git-server.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/icon-shim/latest/icon-shim.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/authentication-tokens/latest/authentication-tokens.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/credentials/1.23/credentials.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/analysis-core/1.71/analysis-core.hpi
-curl -O https://updates.jenkins-ci.org/download/plugins/ansicolor/0.4.1/ansicolor.hpi
+wget https://updates.jenkins-ci.org/download/plugins/blueocean-rest/latest/blueocean-rest.hpi
+wget https://updates.jenkins-ci.org/download/plugins/blueocean-rest-impl/latest/blueocean-rest-impl.hpi
+wget https://updates.jenkins-ci.org/download/plugins/blueocean-i18n/latest/blueocean-i18n.hpi
+wget https://updates.jenkins-ci.org/download/plugins/blueocean-git-pipeline/latest/blueocean-git-pipeline.hpi
+wget https://updates.jenkins-ci.org/download/plugins/blueocean-jwt/latest/blueocean-jwt.hpi
+wget https://updates.jenkins-ci.org/download/plugins/blueocean-github-pipeline/latest/blueocean-github-pipeline.hpi
+wget https://updates.jenkins-ci.org/download/plugins/blueocean-pipeline-editor/latest/blueocean-pipeline-editor.hpi
+wget https://updates.jenkins-ci.org/download/plugins/blueocean-pipeline-api-impl/latest/blueocean-pipeline-api-impl.hpi
+wget https://updates.jenkins-ci.org/download/plugins/blueocean-commons/latest/blueocean-commons.hpi
+wget https://updates.jenkins-ci.org/download/plugins/blueocean-display-url/latest/blueocean-display-url.hpi
+wget https://updates.jenkins-ci.org/download/plugins/blueocean-web/latest/blueocean-web.hpi
+wget https://updates.jenkins-ci.org/download/plugins/blueocean-autofavorite/latest/blueocean-autofavorite.hpi
+wget https://updates.jenkins-ci.org/download/plugins/blueocean-dashboard/latest/blueocean-dashboard.hpi
+wget https://updates.jenkins-ci.org/download/plugins/blueocean-config/latest/blueocean-config.hpi
+wget https://updates.jenkins-ci.org/download/plugins/blueocean-personalization/latest/blueocean-personalization.hpi
+wget https://updates.jenkins-ci.org/download/plugins/cloudbees-folder/latest/cloudbees-folder.hpi
+wget https://updates.jenkins-ci.org/download/plugins/credentials/latest/credentials.hpi
+wget https://updates.jenkins-ci.org/download/plugins/junit/latest/junit.hpi
+wget https://updates.jenkins-ci.org/download/plugins/blueocean/1.0.0/blueocean.hpi
+wget https://updates.jenkins-ci.org/download/plugins/favorite/latest/favorite.hpi
+wget https://updates.jenkins-ci.org/download/plugins/mailer/latest/mailer.hpi
+wget https://updates.jenkins-ci.org/download/plugins/workflow-job/latest/workflow-job.hpi
+wget https://updates.jenkins-ci.org/download/plugins/git/latest/git.hpi
+wget https://updates.jenkins-ci.org/download/plugins/blueocean-events/latest/blueocean-events.hpi
+wget https://updates.jenkins-ci.org/download/plugins/metrics/latest/metrics.hpi
+wget https://updates.jenkins-ci.org/download/plugins/branch-api/latest/branch-api.hpi
+wget https://updates.jenkins-ci.org/download/plugins/workflow-api/latest/workflow-api.hpi
+wget https://updates.jenkins-ci.org/download/plugins/display-url-api/latest/display-url-api.hpi
+wget https://updates.jenkins-ci.org/download/plugins/workflow-multibranch/latest/workflow-multibranch.hpi
+wget https://updates.jenkins-ci.org/download/plugins/github-branch-source/latest/github-branch-source.hpi
+wget https://updates.jenkins-ci.org/download/plugins/variant/latest/variant.hpi
+wget https://updates.jenkins-ci.org/download/plugins/workflow-cps/latest/workflow-cps.hpi
+wget https://updates.jenkins-ci.org/download/plugins/pubsub-light/latest/pubsub-light.hpi
+wget https://updates.jenkins-ci.org/download/plugins/pipeline-model-definition/latest/pipeline-model-definition.hpi
+wget https://updates.jenkins-ci.org/download/plugins/workflow-durable-task-step/latest/workflow-durable-task-step.hpi
+wget https://updates.jenkins-ci.org/download/plugins/workflow-step-api/latest/workflow-step-api.hpi
+wget https://updates.jenkins-ci.org/download/plugins/workflow-support/latest/workflow-support.hpi
+wget https://updates.jenkins-ci.org/download/plugins/pipeline-graph-analysis/latest/pipeline-graph-analysis.hpi
+wget https://updates.jenkins-ci.org/download/plugins/structs/latest/structs.hpi
+wget https://updates.jenkins-ci.org/download/plugins/pipeline-input-step/latest/pipeline-input-step.hpi
+wget https://updates.jenkins-ci.org/download/plugins/pipeline-stage-step/latest/pipeline-stage-step.hpi
+wget https://updates.jenkins-ci.org/download/plugins/matrix-project/latest/matrix-project.hpi
+wget https://updates.jenkins-ci.org/download/plugins/sse-gateway/latest/sse-gateway.hpi
+wget https://updates.jenkins-ci.org/download/plugins/jackson2-api/latest/jackson2-api.hpi
+wget https://updates.jenkins-ci.org/download/plugins/script-security/latest/script-security.hpi
+wget https://updates.jenkins-ci.org/download/plugins/workflow-scm-step/latest/workflow-scm-step.hpi
+wget https://updates.jenkins-ci.org/download/plugins/github/latest/github.hpi
+wget https://updates.jenkins-ci.org/download/plugins/git-client/latest/git-client.hpi
+wget https://updates.jenkins-ci.org/download/plugins/github-api/latest/github-api.hpi
+wget https://updates.jenkins-ci.org/download/plugins/durable-task/latest/durable-task.hpi
+wget https://updates.jenkins-ci.org/download/plugins/ssh-credentials/latest/ssh-credentials.hpi
+wget https://updates.jenkins-ci.org/download/plugins/workflow-basic-steps/latest/workflow-basic-steps.hpi
+wget https://updates.jenkins-ci.org/download/plugins/workflow-cps-global-lib/latest/workflow-cps-global-lib.hpi
+wget https://updates.jenkins-ci.org/download/plugins/credentials-binding/latest/credentials-binding.hpi
+wget https://updates.jenkins-ci.org/download/plugins/docker-workflow/latest/docker-workflow.hpi
+wget https://updates.jenkins-ci.org/download/plugins/pipeline-model-api/latest/pipeline-model-api.hpi
+wget https://updates.jenkins-ci.org/download/plugins/ace-editor/latest/ace-editor.hpi
+wget https://updates.jenkins-ci.org/download/plugins/jquery-detached/latest/jquery-detached.hpi
+wget https://updates.jenkins-ci.org/download/plugins/pipeline-model-declarative-agent/latest/pipeline-model-declarative-agent.hpi
+wget https://updates.jenkins-ci.org/download/plugins/pipeline-model-extensions/latest/pipeline-model-extensions.hpi
+wget https://updates.jenkins-ci.org/download/plugins/pipeline-stage-tags-metadata/latest/pipeline-stage-tags-metadata.hpi
+wget https://updates.jenkins-ci.org/download/plugins/plain-credentials/latest/plain-credentials.hpi
+wget https://updates.jenkins-ci.org/download/plugins/token-macro/latest/token-macro.hpi
+wget https://updates.jenkins-ci.org/download/plugins/docker-commons/latest/docker-commons.hpi
+wget https://updates.jenkins-ci.org/download/plugins/git-server/latest/git-server.hpi
+wget https://updates.jenkins-ci.org/download/plugins/icon-shim/latest/icon-shim.hpi
+wget https://updates.jenkins-ci.org/download/plugins/authentication-tokens/latest/authentication-tokens.hpi
+wget https://updates.jenkins-ci.org/download/plugins/credentials/1.23/credentials.hpi
+wget https://updates.jenkins-ci.org/download/plugins/analysis-core/1.71/analysis-core.hpi
+wget https://updates.jenkins-ci.org/download/plugins/ansicolor/0.4.1/ansicolor.hpi
