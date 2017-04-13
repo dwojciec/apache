@@ -73,9 +73,9 @@ using the variable **JENKINS_UC**
 
 ```
 
-oc new-build jenkins:2~https://github.com/dwojciec/jenkins.git --context-dir=/1/test/s2i   --name=jenkins-plugin -e JENKINS_UC=httpd-server:8080
+oc new-build jenkins:1~https://github.com/dwojciec/jenkins.git --context-dir=/1/test/s2i   --name=jenkins-plugin -e JENKINS_UC=httpd-server:8080
 
-oc new-app jenkins-ephemeral -p NAMESPACE=<new-project>  -p JENKINS_IMAGE_STREAM_TAG=jenkins-plugin:latest
+oc new-app jenkins-ephemeral -p NAMESPACE=apache-jenkins  -p JENKINS_IMAGE_STREAM_TAG=jenkins-plugin:latest
 
 ```
 
