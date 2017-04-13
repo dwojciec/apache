@@ -59,12 +59,12 @@ oc expose service httpd-server
 ```
 
 **Apache server created**  
-![Openshift](https://raw.githubusercontent.com/dwojciec/apache/master/images/httpd-server-png)
+![Openshift](https://github.com/dwojciec/apache/blob/master/images/httpd-server.png)
 
 
 **our Jenkins Update Center**
 
-![Openshift](https://raw.githubusercontent.com/dwojciec/apache/master/images/apache.png)
+![Openshift](https://github.com/dwojciec/apache/blob/master/images/apache.png)
 
 
 
