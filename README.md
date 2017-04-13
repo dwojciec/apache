@@ -3,7 +3,7 @@ create a new openshift project
 oc new-project <new-project>
 oc new-build jenkins:2~https://github.com/dwojciec/jenkins.git --context-dir=/1/test/s2i   --name=jenkins-plugin
 oc new-app jenkins-ephemeral \
->     -p NAMESPACE=<new-project>  -p JENKINS_IMAGE_STREAM_TAG=jenkins-plugin:latest
+-p NAMESPACE=<new-project>  -p JENKINS_IMAGE_STREAM_TAG=jenkins-plugin:latest
 
 create a Apache Server to play the role of Update Center for Jenkins with this structure :
 http://<httpd-server>/download/plugins/.....
